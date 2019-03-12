@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`will fail every time 1`] = `
+Object {
+  "createdAt": 2019-03-12T15:14:46.652Z,
+  "id": 1,
+  "name": "horse",
+}
+`;
